@@ -157,12 +157,12 @@ a:hover {
 }
 
 .profile-photo {
-  width: 228px;
-  height: 228px;
+  width: 245px;
+  height: 245px;
   object-fit: cover;
   border-radius: 50%;
   margin: 0 auto 10px;
-  border: 1px solid var(--line);
+  border: 2px solid var(--line);
 }
 
 h1,
