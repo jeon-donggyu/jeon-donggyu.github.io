@@ -7,7 +7,7 @@
   --accent: #6b3f1d;
   --accent-dark: #432812;
   --accent-soft: #f0e5d8;
-  --max-width: 1202px;
+  --max-width: 1190px;
   --radius: 18px;
   --shadow: 0 20px 50px rgba(0, 0, 0, 0.08);
 }
@@ -36,9 +36,9 @@ img {
 
 .kelley-photo {
     width: 100%;          /* Reduces the width (Adjust this percentage to scale it up or down) */
-    max-width: 530px;    /* Puts a hard ceiling on how large it can grow on big screens */
+    max-width: 497px;    /* Puts a hard ceiling on how large it can grow on big screens */
     margin: 0.5rem auto 1.5rem auto; /* Centers the image if it's smaller than the column */
-    border-radius: 13px;  /* Optional: gives it those clean, soft corners like your profile card */
+    border-radius: 15px;  /* Optional: gives it those clean, soft corners like your profile card */
 }
 
 a {
@@ -137,7 +137,7 @@ a:hover {
 }
 
 .section {
-  padding: 21px 0;
+  padding: 16px 0;
 }
 
 .hero-grid {
@@ -468,7 +468,7 @@ code {
 /* Compact research page layout */
 
 .research-page {
-  padding-top: 14px;
+  padding-top: 10px;
   padding-bottom: 26px;
 }
 
@@ -698,7 +698,7 @@ code {
 /* Compact teaching page layout */
 
 .teaching-page {
-  padding-top: 14px;
+  padding-top: 10px;
   padding-bottom: 26px;
 }
 
