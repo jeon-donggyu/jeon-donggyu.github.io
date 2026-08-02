@@ -36,7 +36,7 @@ img {
 
 .kelley-photo {
     width: 100%;          /* Reduces the width (Adjust this percentage to scale it up or down) */
-    max-width: 497px;    /* Puts a hard ceiling on how large it can grow on big screens */
+    max-width: 465px;    /* Puts a hard ceiling on how large it can grow on big screens */
     margin: 0.5rem auto 1.5rem auto; /* Centers the image if it's smaller than the column */
     border-radius: 15px;  /* Optional: gives it those clean, soft corners like your profile card */
 }
@@ -137,7 +137,7 @@ a:hover {
 }
 
 .section {
-  padding: 16px 0;
+  padding: 14px 0;
 }
 
 .hero-grid {
@@ -157,8 +157,8 @@ a:hover {
 }
 
 .profile-photo {
-  width: 245px;
-  height: 245px;
+  width: 240px;
+  height: 240px;
   object-fit: cover;
   border-radius: 50%;
   margin: 0 auto 10px;
@@ -468,7 +468,7 @@ code {
 /* Compact research page layout */
 
 .research-page {
-  padding-top: 10px;
+  padding-top: 9px;
   padding-bottom: 26px;
 }
 
@@ -698,7 +698,7 @@ code {
 /* Compact teaching page layout */
 
 .teaching-page {
-  padding-top: 10px;
+  padding-top: 9px;
   padding-bottom: 26px;
 }
 
