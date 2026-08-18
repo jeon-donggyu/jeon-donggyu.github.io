@@ -468,8 +468,8 @@ code {
 /* Compact research page layout */
 
 .research-page {
-  padding-top: 9px;
-  padding-bottom: 26px;
+  padding-top: 7px;
+  padding-bottom: 23px;
 }
 
 .research-page .narrow {
@@ -477,8 +477,8 @@ code {
 }
 
 .research-page h1 {
-  font-size: clamp(2.1rem, 3.2vw, 2.60rem);
-  margin-bottom: 14px;
+  font-size: clamp(2.1rem, 3.2vw, 2.52rem);
+  margin-bottom: 10px;
 }
 
 .research-page .paper-section {
@@ -490,16 +490,16 @@ code {
 }
 
 .research-page .paper-section h2 {
-  font-size: clamp(1.05rem, 2.2vw, 1.71rem);
+  font-size: clamp(1.05rem, 2.2vw, 1.65rem);
   margin-bottom: 1px;
 }
 
 .research-page .work-progress h2 {
-  margin-bottom: 9px;
+  margin-bottom: 7px;
 }
 
 .research-page .work-progress .compact-list li {
-  margin-bottom: 3px;
+  margin-bottom: 3.5px;
 }
 
 .research-page .work-progress .compact-list li:last-child {
@@ -698,8 +698,8 @@ code {
 /* Compact teaching page layout */
 
 .teaching-page {
-  padding-top: 9px;
-  padding-bottom: 26px;
+  padding-top: 7px;
+  padding-bottom: 23px;
 }
 
 .teaching-page .narrow {
@@ -707,7 +707,7 @@ code {
 }
 
 .teaching-page h1 {
-  font-size: clamp(2.1rem, 3.2vw, 2.60rem);
+  font-size: clamp(2.1rem, 3.2vw, 2.52rem);
   margin-bottom: 12px;
 }
 
